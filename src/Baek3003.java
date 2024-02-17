@@ -15,8 +15,6 @@
 //
 
 
-package Baekjoon;
-
 import java.util.Scanner;
 
 public class Baek3003 {
